@@ -17,13 +17,11 @@ RankId,Rank Name,RequirementId,Requirement Name,Requirement Short,Requirement Nu
 1,Scout,2023,Tell what you need to know about using a pocketknife safely and responsibly.,Knife safety,5,True
 1,Scout,2008,"With your parent or guardian, complete the exercises in the pamphlet <i>How to Protect Your Children From Child Abuse: A Parent's Guide</a> and view the Personal Safety Awareness videos (with your parent or guardian's permission)",Personal protection,6,True
 1,Scout,2006,"Since joining the troop and while working on Scout rank, participate in a Scoutmaster conference.",Scoutmaster conference,7,True
-2,Tenderfoot,1985,"While working toward the Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.
-",Scoutmaster conference,10,True
+2,Tenderfoot,1985,"While working toward the Tenderfoot rank, and after completing Scout rank requirement 7, participate in a Scoutmaster conference.\n\n",Scoutmaster conference,10,True
 2,Tenderfoot,1986,Successfully complete your board of review for the Tenderfoot rank.,Board of review,11,True
 2,Tenderfoot,1980,"Present yourself to your leader, prepared for an overnight camping trip. Show the personal and camping gear you will use. Show the right way to pack and carry it.",Prepare to camp,1a,True
 2,Tenderfoot,1987,Spend at least one night on a patrol or troop campout. Sleep in a tent you have helped pitch.,Sleep in tent,1b,True
-2,Tenderfoot,1994,"Explain how you demonstrated the Outdoor Code and Leave No Trace on
-campouts or outings.",Outdoor Code,1c,True
+2,Tenderfoot,1994,Explain how you demonstrated the Outdoor Code and Leave No Trace on\n\ncampouts or outings.,Outdoor Code,1c,True
 2,Tenderfoot,1988,"On the campout, assist in preparing one of the meals. Tell why it is important for each patrol member to share in meal preparation and cleanup.",Help cook a meal,2a,True
 2,Tenderfoot,1989,"While on a campout, demonstrate an appropriate method of safely cleaning items used to prepare, serve, and eat a meal.",Show cooking safety,2b,True
 2,Tenderfoot,1995,Explain the importance of eating together as a patrol.,Explain patrol eating,2c,True
@@ -31,109 +29,65 @@ campouts or outings.",Outdoor Code,1c,True
 2,Tenderfoot,1990,Demonstrate a practical use of two half-hitches.,Two half-hitches,3b,True
 2,Tenderfoot,1996,Demonstrate a practical use of the taut-line hitch.,Taut-line hitch,3c,True
 2,Tenderfoot,1997,"Demonstrate proper care, sharpening, and use of the knife, saw, and ax. Describe when each should be used.",Wood tools,3d,True
-2,Tenderfoot,1983,"Show first aid for the following:
-<ul class=""li-disc"">
-  <li>Simple cuts and scrapes</li>
-  <li>Blisters on the hand and foot</li>
-  <li>Minor (thermal/heat) burns or scalds (superficial, or first-degree)</li>
-  <li>Bites or stings of insects and ticks</li>
-  <li>Venomous snakebite</li>
-  <li>Nosebleed</li>
-  <li>Frostbite and sunburn</li>
-<li>Choking</li>
-</ul>
-",First Aid,4a,True
+2,Tenderfoot,1983,"Show first aid for the following:\n\n<ul class=""li-disc"">\n\n  <li>Simple cuts and scrapes</li>\n\n  <li>Blisters on the hand and foot</li>\n\n  <li>Minor (thermal/heat) burns or scalds (superficial, or first-degree)</li>\n\n  <li>Bites or stings of insects and ticks</li>\n\n  <li>Venomous snakebite</li>\n\n  <li>Nosebleed</li>\n\n  <li>Frostbite and sunburn</li>\n\n<li>Choking</li>\n\n</ul>\n\n",First Aid,4a,True
 2,Tenderfoot,1982,Describe common poisonous or hazardous plants; identify any that grow in your local area or campsite location. Tell how to treat for exposure to them.,Poisonous plants,4b,True
-2,Tenderfoot,1998,Tell what you can do while on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b.,Injury prevention	,4c,True
+2,Tenderfoot,1998,Tell what you can do while on a campout or other outdoor activity to prevent or reduce the occurrence of injuries or exposure listed in Tenderfoot requirements 4a and 4b.,Injury prevention,4c,True
 2,Tenderfoot,2000,Assemble a personal first-aid kit to carry with you on future campouts and hikes. Tell how each item in the kit would be used.,First-aid kit,4d,True
-2,Tenderfoot,1999,Explain the importance of the buddy system as it relates to your personal safety on outings and where you live. Use the buddy system while on a troop or patrol outing.,Buddy system	,5a,True
+2,Tenderfoot,1999,Explain the importance of the buddy system as it relates to your personal safety on outings and where you live. Use the buddy system while on a troop or patrol outing.,Buddy system,5a,True
 2,Tenderfoot,2001,Describe what to do if you become lost on a hike or campout.,Explain actions if lost,5b,True
 2,Tenderfoot,1992,"Explain the rules of safe and responsible hiking, both on the highway and cross-country, during the day and at night.",Safe Hiking Rules,5c,True
 2,Tenderfoot,2028,"Explain why it is important to hike on trails or other durable surfaces, and  give examples of durable surfaces you saw on your outing.",Why it is important to hike on trails,5d,True
-2,Tenderfoot,1981,"Record your best in the following tests:<br>
-<br><strong>Current results</strong><br>
-<ul class=""li-none"">
-  <li>Push-ups ________ (Record the number done correctly in 60 seconds)</li>
-  <li>Sit-ups or curl-ups________ (Record the number done correctly in 60 seconds)</li>
- <li>Back-saver sit-and-reach _________ (Record the distance stretched)</li>
-  <li>1 mile walk/run _____________ (record the time)</li>
-</ul>
-",Fitness benchmark,6a,True
+2,Tenderfoot,1981,"Record your best in the following tests:<br>\n\n<br><strong>Current results</strong><br>\n\n<ul class=""li-none"">\n\n  <li>Push-ups ________ (Record the number done correctly in 60 seconds)</li>\n\n  <li>Sit-ups or curl-ups________ (Record the number done correctly in 60 seconds)</li>\n\n <li>Back-saver sit-and-reach _________ (Record the distance stretched)</li>\n\n  <li>1 mile walk/run _____________ (record the time)</li>\n\n</ul>\n\n",Fitness benchmark,6a,True
 2,Tenderfoot,2002,Develop and describe a plan for improvement in each of the activities listed in Tenderfoot requirement 6a. Keep track of your activity for at least 30 days.,Improvement plan,6b,True
-2,Tenderfoot,2003,"Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.
-<br>
-<br><strong>30 days later</strong><br>
-<ul class=""li-none"">
-  <li>Push-ups ________ (Record the number done correctly in 60 seconds)</li>
-  <li>Sit-ups or curl-ups________ (Record the number done correctly in 60 seconds)<li>
- <li>Back-saver sit-and-reach _________ (Record the distance stretched)</li>
-  <li>1 mile walk/run _____________ (record the time)</li>
-</ul>",Test fitness plan,6c,True
+2,Tenderfoot,2003,"Show improvement (of any degree) in each activity listed in Tenderfoot requirement 6a after practicing for 30 days.\n\n<br>\n\n<br><strong>30 days later</strong><br>\n\n<ul class=""li-none"">\n\n  <li>Push-ups ________ (Record the number done correctly in 60 seconds)</li>\n\n  <li>Sit-ups or curl-ups________ (Record the number done correctly in 60 seconds)<li>\n\n <li>Back-saver sit-and-reach _________ (Record the distance stretched)</li>\n\n  <li>1 mile walk/run _____________ (record the time)</li>\n\n</ul>",Test fitness plan,6c,True
 2,Tenderfoot,1993,"Demonstrate how to display, raise, lower, and fold the American flag.",Flag basics,7a,True
 2,Tenderfoot,2004,Participate in a total of one hour of service in one or more service projects approved by your Scoutmaster. Explain how your service to others relates to the Scout slogan and Scout motto.,Service project,7b,True
 2,Tenderfoot,2005,Describe the steps in Scouting's EDGE method.  Use the Teaching EDGE method to teach another person how to tie the square knot.,EDGE method,8,True
 2,Tenderfoot,1984,Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law in your everyday life.,Scout spirit,9,True
 3,Second Class,2173,Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (not to include those used for Tenderfoot requirement 9) in your everyday life.,Scout spirit,10,True
-3,Second Class,2174,"While working toward the Second Class rank, and after completing Tenderfoot
-requirement 10, participate in a Scoutmaster conference.",Scoutmaster conference,11,True
+3,Second Class,2174,"While working toward the Second Class rank, and after completing Tenderfoot\n\nrequirement 10, participate in a Scoutmaster conference.",Scoutmaster conference,11,True
 3,Second Class,2175,Successfully complete your board of review for the Second Class rank.,Board of review,12,True
 3,Second Class,2139,"Since joining Scouts BSA, participate in five separate troop/patrol activities, at least three of which must be held outdoors. Of the outdoor activities, at least two must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.",Participation,1a,True
 3,Second Class,2140,Recite the Leave No Trace Seven Principles from memory.  Explain how you follow them on all outings.,Leave No Trace Seven Principles,1b,True
 3,Second Class,2141,"On one of these campouts, select a location for your patrol site and recommend it to your patrol leader, senior patrol leader, or troop guide. Explain what factors you should consider when choosing a patrol site and where to pitch a tent.",Select patrol camp site,1c,True
 3,Second Class,2142,Explain when it is appropriate to use a fire for cooking or other purposes and when it would not be appropriate to do so.,Explain cooking fires,2a,True
-3,Second Class,2143,"Use a pocketknife, and a saw or axe if needed, to prepare tinder,
-kindling, and fuel wood for a cooking fire.",Prepare cooking fire,2b,True
-3,Second Class,2144,"Using a minimum-impact method at an approved outdoor location
-and time, use the tinder, kindling, and fuel wood from Second Class
-requirement 2b to demonstrate how to build a fire. Unless prohibited by
-local fire restrictions, light the fire. After allowing the flames to burn safely
-for at least two minutes, safely extinguish the flames with minimal impact
-to the fire site. Properly dispose of the ashes and any charred remains.",Build a fire,2c,True
+3,Second Class,2143,"Use a pocketknife, and a saw or axe if needed, to prepare tinder,\n\nkindling, and fuel wood for a cooking fire.",Prepare cooking fire,2b,True
+3,Second Class,2144,"Using a minimum-impact method at an approved outdoor location\n\nand time, use the tinder, kindling, and fuel wood from Second Class\n\nrequirement 2b to demonstrate how to build a fire. Unless prohibited by\n\nlocal fire restrictions, light the fire. After allowing the flames to burn safely\n\nfor at least two minutes, safely extinguish the flames with minimal impact\n\nto the fire site. Properly dispose of the ashes and any charred remains.",Build a fire,2c,True
 3,Second Class,2145,"Explain when it is appropriate to use a lightweight stove and when it is appropriate to use a propane stove. Set up a lightweight stove or propane stove. Unless prohibited by local fire restrictions, light the stove. Describe the safety procedures for using these types of stoves.",Camp stove,2d,True
 3,Second Class,2146,"On one campout, plan and cook one hot breakfast or lunch, selecting foods from MyPlate or the current USDA nutritional model. Explain the importance of good nutrition. Demonstrate how to transport, store, and prepare the foods you selected.",Plan & Cook Meal,2e,True
 3,Second Class,2147,Demonstrate tying the sheet bend knot. Describe a situation in which you would use this knot.,Sheet bend,2f,True
 3,Second Class,2148,Demonstrate tying the bowline knot. Describe a situation in which you would use this knot.,Bowline,2g,True
-3,Second Class,2149,Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols.,Orient a map	,3a,True
-3,Second Class,2150,"Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian.<sup>2</sup>",Hike 5 miles	,3b,True
+3,Second Class,2149,Demonstrate how a compass works and how to orient a map. Use a map to point out and tell the meaning of five map symbols.,Orient a map,3a,True
+3,Second Class,2150,"Using a compass and map together, take a 5-mile hike (or 10 miles by bike) approved by your adult leader and your parent or guardian.<sup>2</sup>",Hike 5 miles,3b,True
 3,Second Class,2151,Describe some hazards or injuries that you might encounter on your hike and what you can do to help prevent them.<sup>2</sup>,Describe hike hazards,3c,True
-3,Second Class,2152,Demonstrate how to find directions during the day and at night without using a compass or an electronic device.,Demonstrate navigation	,3d,True
+3,Second Class,2152,Demonstrate how to find directions during the day and at night without using a compass or an electronic device.,Demonstrate navigation,3d,True
 3,Second Class,2153,"Identify or show evidence of at least 10 kinds of wild animals (such as birds, mammals, reptiles, fish, or mollusks) found in your local area or camping location. You may show evidence by tracks, signs, or photographs you have taken.",Identify wild animals,4,True
 3,Second Class,2154,Tell what precautions must be taken for a safe swim.,Know safe swim,5a,True
 3,Second Class,2155,"Demonstrate your ability to pass the BSA beginner test: Jump feet first into water over your head in depth, level off and swim 25 feet on the surface, stop, turn sharply, resume swimming, then return to your starting place.<sup>3</sup>",Beginner swim test,5b,True
 3,Second Class,2156,"Demonstrate water rescue methods by reaching with your arm or leg, by reaching with a suitable object, and by throwing lines and objects.<sup>3</sup>",Water rescues,5c,True
 3,Second Class,2157,Explain why swimming rescues should not be attempted when a reaching or throwing rescue is possible. Explain why and how a rescue swimmer should avoid contact with the victim.,Swimming rescues,5d,True
-3,Second Class,2158,"Demonstrate first aid for the following: 
-<ul class=""li-disc"">
-  <li>Object in the eye</li> 
-  <li>Bite of a suspected rabid animal</li> 
-  <li>Puncture wounds from a splinter, nail, and fishhook</li> 
-  <li>Serious burns (partial thickness, or second-degree)</li> 
-  <li>Heat exhaustion</li> 
-  <li>Shock</li> 
-  <li>Heatstroke, dehydration, hypothermia, and hyperventilation</li> 
-</ul>
-",First aid,6a,True
+3,Second Class,2158,"Demonstrate first aid for the following: \n\n<ul class=""li-disc"">\n\n  <li>Object in the eye</li> \n\n  <li>Bite of a suspected rabid animal</li> \n\n  <li>Puncture wounds from a splinter, nail, and fishhook</li> \n\n  <li>Serious burns (partial thickness, or second-degree)</li> \n\n  <li>Heat exhaustion</li> \n\n  <li>Shock</li> \n\n  <li>Heatstroke, dehydration, hypothermia, and hyperventilation</li> \n\n</ul>\n\n",First aid,6a,True
 3,Second Class,2159,"Show what to do for ""hurry"" cases of stopped breathing, stroke, severe bleeding, and ingested poisoning.",Hurry case actions,6b,True
-3,Second Class,2160,Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.,Injury prevention	,6c,True
+3,Second Class,2160,Tell what you can do while on a campout or hike to prevent or reduce the occurrence of the injuries listed in Second Class requirements 6a and 6b.,Injury prevention,6c,True
 3,Second Class,2161,Explain what to do in case of accidents that require emergency response in the home and backcountry. Explain what constitutes an emergency and what information you will need to provide to a responder.,Emergency responses,6d,True
-3,Second Class,2162,Tell how you should respond if you come upon the scene of a vehicular accident.,Car accident response	,6e,True
+3,Second Class,2162,Tell how you should respond if you come upon the scene of a vehicular accident.,Car accident response,6e,True
 3,Second Class,2163,"After completing Tenderfoot requirement 6c, be physically active at least 30 minutes each day for five days a week for four weeks. Keep track of your activities.",Be physically active,7a,True
 3,Second Class,2164,Share your challenges and successes in completing Second Class requirement 7a. Set a goal for continuing to include physical activity as part of your daily life and develop a plan for doing so.,Reflection & Goal Setting,7b,True
 3,Second Class,2165,"Participate in a school, community, or troop program on the dangers of using drugs, alcohol, and tobacco and other practices that could be harmful to your health. Discuss your participation in the program with your family, and explain the dangers of substance addictions. Report to your Scoutmaster or other adult leader in your troop about which parts of the Scout Oath and Scout Law relate to what you learned.",Substance Abuse Risks,7c,True
 3,Second Class,2166,"Participate in a flag ceremony for your school, religious institution, chartered organization, community, or Scouting activity.",Flag ceremony,8a,True
 3,Second Class,2167,Explain what respect is due the flag of the United States.,Flag respect,8b,True
 3,Second Class,2168,"With your parents or guardian, decide on an amount of money that you would like to earn, based on the cost of a specific item you would like to purchase. Develop a written plan to earn the amount agreed upon and follow that plan; it is acceptable to make changes to your plan along the way. Discuss any changes made to your original plan and whether you met your goal.",Plan an earning goal,8c,True
-3,Second Class,2169,"At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose.",Compare 3 prices	,8d,True
+3,Second Class,2169,"At a minimum of three locations, compare the cost of the item for which you are saving to determine the best place to purchase it. After completing Second Class requirement 8c, decide if you will use the amount that you earned as originally intended, save all or part of it, or use it for another purpose.",Compare 3 prices,8d,True
 3,Second Class,2170,Participate in two hours of service through one or more service projects approved by your Scoutmaster. Tell how your service to others relates to the Scout Oath.,2 Hours of Service,8e,True
 3,Second Class,2171,Explain the three R's of personal safety and protection.,Personal Safety,9a,True
-3,Second Class,2172,Describe bullying; tell what the appropriate response is to someone who is bullying you or another person.,Understand bullying	,9b,True
+3,Second Class,2172,Describe bullying; tell what the appropriate response is to someone who is bullying you or another person.,Understand bullying,9b,True
 4,First Class,2210,"Tell someone who is eligible to join Scouts BSA, or an inactive Scout, about your Scouting activities. Invite this person to an outing, activity, service project, or meeting. Provide information on how to join, or encourage the inactive Scout to become active. Share your efforts with your Scoutmaster or other adult leader.",Invite a friend to Scouts,10,True
 4,First Class,2211,Demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived four different points of the Scout Law (different from those points used for previous ranks) in your everyday life.,Demonstrate Scout spirit,11,True
 4,First Class,2212,"While working toward the First Class rank, and after completing Second Class requirement 11, participate in a Scoutmaster conference.",Scoutmaster conference,12,True
 4,First Class,2213,Successfully complete your board of review for the First Class rank.,Board of review,13,True
 4,First Class,2176,"Since joining Scouts BSA, participate in 10 separate troop/patrol activities, at least six of which must be held outdoors. Of the outdoor activities, at least three must include overnight camping. These activities do not include troop or patrol meetings. On campouts, spend the night in a tent that you pitch or other structure that you help erect, such as a lean-to, snow cave, or tepee.",Participate in 10 events,1a,True
 4,First Class,2177,"Explain the potential impacts of camping, both on the environment and on other outdoor users. Explain why the Outdoor Code and Leave No Trace Seven Principles are important for protecting the outdoors.",Tread Lightly!,1b,True
-4,First Class,2178,"Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner, and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.",Plan a campout menu	,2a,True
+4,First Class,2178,"Help plan a menu for one of the above campouts that includes at least one breakfast, one lunch, and one dinner, and that requires cooking at least two of the meals. Tell how the menu includes the foods from MyPlate or the current USDA nutritional model and how it meets nutritional needs for the planned activity or campout.",Plan a campout menu,2a,True
 4,First Class,2179,"Using the menu planned in First Class requirement 2a, make a list showing a budget and the food amounts needed to feed three or more youth. Secure the ingredients.",Develop menu budget,2b,True
 4,First Class,2180,"Show which pans, utensils, and other gear will be needed to cook and serve these meals.",Know cooking tools,2c,True
 4,First Class,2181,"Demonstrate the procedures to follow in the safe handling and storage of fresh meats, dairy products, eggs, vegetables, and other perishable food products. Show how to properly dispose of camp garbage, cans, plastic containers, waste water and other rubbish.",Know food safety,2d,True
@@ -154,12 +108,7 @@ to the fire site. Properly dispose of the ashes and any charred remains.",Build 
 4,First Class,2196,"Describe proper body positioning in a watercraft, depending on the type and size of the vessel. Explain the importance of proper body position in the boat.",Show boating body position,6d,True
 4,First Class,2197,"With a helper and a practice victim, show a line rescue both as tender and as rescuer. (The practice victim should be approximately 30 feet from shore in deep water.)<sup>5</sup>",Line rescue,6e,True
 4,First Class,2198,"Demonstrate bandages for a sprained ankle and for injuries on the head, the upper arm, and the collarbone.",Bandages,7a,True
-4,First Class,2199,"By yourself and with a partner, show how to: 
-<ul class=""li-disc"">
-  <li>Transport a person from a smoke-filled room</li> 
-  <li>Transport for at least 25 yards a person with a sprained ankle.</li>
-</ul>
-",Transport others,7b,True
+4,First Class,2199,"By yourself and with a partner, show how to: \n\n<ul class=""li-disc"">\n\n  <li>Transport a person from a smoke-filled room</li> \n\n  <li>Transport for at least 25 yards a person with a sprained ankle.</li>\n\n</ul>\n\n",Transport others,7b,True
 4,First Class,2200,Tell the five most common signals of a heart attack. Explain the steps (procedures) in cardiopulmonary resuscitation (CPR).,Heart attack,7c,True
 4,First Class,2201,Tell what utility services exist in your home or meeting place. Describe potential hazards associated with these utilities and tell how to respond in emergency situations.,Utility hazards,7d,True
 4,First Class,2202,"Develop an emergency action plan for your home that includes what to do in case of fire, storm, power outage, and water outage.",Emergency plan,7e,True
@@ -172,63 +121,24 @@ to the fire site. Properly dispose of the ashes and any charred remains.",Build 
 4,First Class,2209,Participate in three hours of service through one or more service projects approved by your Scoutmaster. The project(s) must not be the same service project(s) used for Tenderfoot requirement 7b and Second Class requirement 8e. Explain how your service to others relates to the Scout Law.,Complete service project(s),9d,True
 5,Star Scout,595,Be active in your troop for at least four months as a First Class Scout.,Active 4 months,1,True
 5,Star Scout,596,"As a First Class Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.",Demonstrate Scout spirit,2,True
-5,Star Scout,597,"Earn six merit badges, including any four from the required list for Eagle. You may choose any of the merit badges on the  required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list.",Six Merit Badges	,3,True
+5,Star Scout,597,"Earn six merit badges, including any four from the required list for Eagle. You may choose any of the merit badges on the  required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list.",Six Merit Badges,3,True
 5,Star Scout,598,"While a First Class Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster.",Service Project(s),4,True
-5,Star Scout,599,"While a First Class Scout, serve actively in your troop for four months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop:<br><br/>
-
-<p><strong>Scout troop.</strong>  Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.<sup>6</sup></p>
-
-<p><strong>Venturing crew.</strong> President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>
-
-<p><strong>Sea Scout ship.</strong> Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>
-
-<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,5,True
+5,Star Scout,599,"While a First Class Scout, serve actively in your troop for four months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop:<br><br/>\n\n<p><strong>Scout troop.</strong>  Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.<sup>6</sup></p>\n\n<p><strong>Venturing crew.</strong> President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>\n\n<p><strong>Sea Scout ship.</strong> Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>\n\n<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,5,True
 5,Star Scout,602,"With your parent or guardian, complete the exercises in the pamphlet <i>How to Protect Your Children From Child Abuse: A Parent's Guide</i> and view the Personal Safety Awareness videos (with your parent or guardian's permission).</em><sup>7</sup></em>.",Personal Protection,6,True
 5,Star Scout,600,"While a First Class Scout, participate in a Scoutmaster conference.",Scoutmaster conference,7,True
 5,Star Scout,601,Successfully complete your board of review for the Star rank.<sup>8</sup>,Board of review,8,True
 6,Life Scout,603,Be active in your troop for at least six months as a Star Scout.,Active 6 months,1,True
-6,Life Scout,604,"As a Star Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.
-",Demonstrate Scout spirit,2,True
+6,Life Scout,604,"As a Star Scout, demonstrate Scout spirit by living the Scout Oath and Scout Law. Tell how you have done your duty to God and how you have lived the Scout Oath and Scout Law in your everyday life.\n",Demonstrate Scout spirit,2,True
 6,Life Scout,605,Earn five more merit badges (so that you have 11 in all) including any number more from the list for Eagle so that you have a total of seven from the required list of Eagle in that total number of 11 merit badges. You may choose any of the 17 merit badges on the required list for Eagle to fulfill this requirement. See Eagle rank requirement 3 for this list.*,Five Additional Merit Badges,3,True
 6,Life Scout,606,"While a Star Scout, participate in six hours of service through one or more service projects approved by your Scoutmaster. At least three hours of this service must be conservation-related.",Complete service project(s),4,True
-6,Life Scout,607,"While a Star Scout, serve actively in your troop for six months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop:<br><br/>
-
-<p><strong>Scout troop.</strong> Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.<sup>9</sup></p>
-
-<p><strong>Venturing crew.</strong> President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>
-
-<p><strong>Sea Scout ship.</strong> Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>
-
-<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,5,True
-6,Life Scout,608,"While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster's satisfaction.
-<ol class=""li-a"">
-  <li>Tenderfoot 4a and 4b (first aid)</li>
-  <li>Second Class 2b, 2c, and 2d (cooking/tools)</li>
-  <li>Second Class 3a and 3d (navigation)</li>
-  <li>First Class 3a, 3b, 3c, and 3d (tools)</li>
-  <li>First Class 4a and 4b (navigation)</li>
-  <li> Second Class 6a and 6b (first aid)</li>
-  <li>First Class - 7a and 7b (first aid)</li> 
-<li>Three requirements from one of the required for Eagle merit badges, as approved by your Scoutmaster</li>
-</ol>",Teach EDGE method,6,True
+6,Life Scout,607,"While a Star Scout, serve actively in your troop for six months in one or more of the following positions of responsibility (or carry out a Scoutmaster-approved leadership project to help the troop:<br><br/>\n\n<p><strong>Scout troop.</strong> Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, Order of the Arrow troop representative, den chief, scribe, librarian, historian, quartermaster, bugler, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.<sup>9</sup></p>\n\n<p><strong>Venturing crew.</strong> President, vice president, secretary, treasurer, den chief, historian, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>\n\n<p><strong>Sea Scout ship.</strong> Boatswain, boatswain's mate, purser, yeoman, storekeeper, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>\n\n<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,5,True
+6,Life Scout,608,"While a Star Scout, use the Teaching EDGE method to teach another Scout (preferably younger than you) the skills from ONE of the following choices, so that the Scout is prepared to pass those requirements to their Scoutmaster's satisfaction.\n<ol class=""li-a"">\n  <li>Tenderfoot 4a and 4b (first aid)</li>\n  <li>Second Class 2b, 2c, and 2d (cooking/tools)</li>\n  <li>Second Class 3a and 3d (navigation)</li>\n  <li>First Class 3a, 3b, 3c, and 3d (tools)</li>\n  <li>First Class 4a and 4b (navigation)</li>\n  <li> Second Class 6a and 6b (first aid)</li>\n  <li>First Class - 7a and 7b (first aid)</li> \n<li>Three requirements from one of the required for Eagle merit badges, as approved by your Scoutmaster</li>\n</ol>",Teach EDGE method,6,True
 6,Life Scout,609,"While a Star Scout, participate in a Scoutmaster conference.",Scoutmaster conference,7,True
-6,Life Scout,610,"Successfully complete your board of review for the Life rank.*<br />
-<br />
-*If the board of review does not approve the Scout's advancement, the decision may be appealed in accordance with <em>Guide to Advancement</em> topic 8.0.4.0.",Board of review,8,True
+6,Life Scout,610,"Successfully complete your board of review for the Life rank.*<br />\n<br />\n*If the board of review does not approve the Scout's advancement, the decision may be appealed in accordance with <em>Guide to Advancement</em> topic 8.0.4.0.",Board of review,8,True
 7,Eagle Scout,1508,Be active in your troop for at least six months as a Life Scout.,Active 6+ months,1,True
 7,Eagle Scout,1509,"As a Life Scout, demonstrate Scout Spirit by living the Scout Oath and Scout Law.  Tell how you have done your duty to God, how you have lived the Scout Oath and Scout Law in your everyday life, and how your understanding of the Scout Oath and Scout Law will guide your life in the future. List on your Eagle Scout Rank Application the names of individuals who know you personally and would be willing to provide a recommendation on your behalf, including parents/guardians, religious (if not affiliated with an organized religion, then the parent or guardian provides this reference), educational, employer (if employed), and two other references.",Demonstrate Scouting spirit,2,True
 7,Eagle Scout,1510,"Earn a total of 21 merit badges (10 more than required for the Life rank), including these 14 merit badges: (a) First Aid, (b) Citizenship in the Community, (c) Citizenship in the Nation, (d) Citizenship in Society, (e) Citizenship in the World, (f) Communication, (g) Cooking, (h) Personal Fitness, (i) Emergency Preparedness OR Lifesaving, (j) Environmental Science OR Sustainability, (k) Personal Management, (l) Swimming OR Hiking OR Cycling, (m) Camping, and (n) Family Life. <br><br/> You must choose only one of the merit badges listed in categories i, j, and l. Any additional merit badge(s) earned in those categories may be counted as one of your seven optional merit badges used to make your total of 21.<br><br/>",Earn 21 merit badges,3,True
-7,Eagle Scout,1511,"While a Life Scout, serve actively in your troop for six months in one or more of the following positions of responsibility<sup>11</sup>:<br><br/>
-
-<p><strong>Scout troop.</strong> Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, troop Order of the Arrow representative, den chief, scribe, librarian, historian, quartermaster, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.</p>
-
-<p><strong>Venturing crew.</strong> President, vice-president, secretary, historian, den chief, treasurer, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>
-
-<p><strong>Sea Scout ship.</strong> Boatswain, boatswains mate, storekeeper, purser, yeoman, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>
-
-<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,4,True
+7,Eagle Scout,1511,"While a Life Scout, serve actively in your troop for six months in one or more of the following positions of responsibility<sup>11</sup>:<br><br/>\n\n\n\n<p><strong>Scout troop.</strong> Patrol leader, assistant senior patrol leader, senior patrol leader, troop guide, troop Order of the Arrow representative, den chief, scribe, librarian, historian, quartermaster, junior assistant Scoutmaster, chaplain aide, instructor, webmaster, or outdoor ethics guide.</p>\n\n\n\n<p><strong>Venturing crew.</strong> President, vice-president, secretary, historian, den chief, treasurer, guide, quartermaster, chaplain aide, or outdoor ethics guide.</p>\n\n\n\n<p><strong>Sea Scout ship.</strong> Boatswain, boatswains mate, storekeeper, purser, yeoman, crew leader, media specialist, specialist, den chief, or chaplain aide.</p>\n\n\n\n<p><strong>Lone Scout.</strong> Leadership responsibility in your school, religious organization, club, or elsewhere in your community.</p>",Position of responsibility,4,True
 7,Eagle Scout,1512,"While a Life Scout, plan, develop, and give leadership to others in a service project helpful to any religious institution, any school, or your community. (The project must benefit an organization other than the Boy Scouts of America.) A project proposal must be approved by the organization benefiting from the effort, your Scoutmaster and unit committee, and the council or district before you start. You must use the Eagle Scout Service Project Workbook, BSA publication No. 512-927, in meeting this requirement. (To learn more about the Eagle Scout service project, see the Guide to Advancement, topics 9.0.2.0 through 9.0.2.16.)",Eagle project,5,True
 7,Eagle Scout,1513,"While a Life Scout, participate in a Scoutmaster conference.",Scoutmaster conference,6,True
-7,Eagle Scout,1514,"Successfully complete your board of review for the Eagle Scout rank.<sup>12</sup> 
-<br></br>
-In preparation for your board of review, prepare and attach to your Eagle Scout Rank Application a statement of your ambitions and life purpose and a listing of positions held in your religious institution, school, camp, community, or other organizations, during which you demonstrated leadership skills. Include honors and awards received during this service. (This requirement may be met after age 18, in accordance with Guide to Advancement topic 8.0.3.1.<sup>13</sup>)",Board of review,7,True
+7,Eagle Scout,1514,"Successfully complete your board of review for the Eagle Scout rank.<sup>12</sup> \n\n<br></br>\n\nIn preparation for your board of review, prepare and attach to your Eagle Scout Rank Application a statement of your ambitions and life purpose and a listing of positions held in your religious institution, school, camp, community, or other organizations, during which you demonstrated leadership skills. Include honors and awards received during this service. (This requirement may be met after age 18, in accordance with Guide to Advancement topic 8.0.3.1.<sup>13</sup>)",Board of review,7,True

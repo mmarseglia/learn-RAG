@@ -13,7 +13,7 @@ In this lab you will implement the RAG pattern with your own data. Use the examp
 1. Create a new repository in your account for your project. Alternatively, you can use this repository as a starting point by forking the repository. [Use this link to create it in one step.](https://github.com/alfredodeza/learn-retrieval-augmented-generation/generate).
 2. use the [Applied Rag notebook](./examples/3-applied-rag/embeddings.ipynb) as a starting point
 3. Replace the example data with your own data. Make sure to format it as a list of dictionaries for easier ingestion into the vector database
-4. Run the LLM with Llamafile or connect your appliation to a valied OpenAI API endpoint
+4. Run the LLM with Llamafile or connect your application to a valid OpenAI API endpoint
 5. Run the notebook or Python application and verify your work
 
 ## Concepts Covered
